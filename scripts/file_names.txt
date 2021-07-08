@@ -1,0 +1,2 @@
+../fastq/SRR622461_2.fastq
+../fastq/SRR622461_1.fastq
